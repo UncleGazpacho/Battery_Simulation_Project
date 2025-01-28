@@ -76,11 +76,7 @@ The project consists of the following files and folders:
 This project is open-source and released under the MIT License. Feel free to use and modify the code as needed for personal or commercial use.  
 
 **Authors:**  
-This project was developed by [Your Name].  
-
-**Acknowledgements:**  
-- Special thanks to the developers of Python and the pandas library for enabling efficient data processing.  
-- The structure of this project was inspired by energy simulation workflows commonly used in renewable energy analysis.  
+This project was developed by Yannick Gorda
 
 --- 
 
